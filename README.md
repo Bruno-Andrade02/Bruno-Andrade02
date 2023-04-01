@@ -7,6 +7,8 @@
 
 - 📫 Me encontre através do e-mail **bruno.andrade02@aluno.ifce.edu.br**
 
+- 👨‍💻 Meu porifólio [https://bruno-andrade02.github.io/brunoportifolio/](https://bruno-andrade02.github.io/brunoportifolio/)
+
 - 📄 Perfil Linkedin [https://www.linkedin.com/in/bruno-andrade92/](https://www.linkedin.com/in/bruno-andrade92/)
 
 <h3 align="left">Connect with me:</h3>
